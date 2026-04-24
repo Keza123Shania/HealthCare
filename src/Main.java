@@ -1,4 +1,4 @@
-package main;
+
 
 import model.*;
 import service.ClinicService;
